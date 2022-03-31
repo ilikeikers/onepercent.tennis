@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.18)  30 MAR 2022 23:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.18)  30 MAR 2022 23:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -570,16 +570,16 @@ pdftex/updmap/pdftex.map): invalid entry for `rtxptmro': SlantFont/ExtendFont c
 an be used only with embedded Type1 fonts
 }] (./tennis.aux) ) 
 Here is how much of TeX's memory you used:
- 13558 strings out of 480806
- 271664 string characters out of 5905151
- 566007 words of memory out of 6000000
- 30720 multiletter control sequences out of 15000+600000
+ 13565 strings out of 480806
+ 271851 string characters out of 5905151
+ 567580 words of memory out of 6000000
+ 30727 multiletter control sequences out of 15000+600000
  403430 words of font info for 27 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  100i,25n,104p,407b,2428s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmr10.pfb>
-Output written on tennis.pdf (1 page, 18854 bytes).
+Output written on tennis.pdf (1 page, 18935 bytes).
 PDF statistics:
  15 PDF objects out of 1000 (max. 8388607)
  10 compressed objects within 1 object stream
