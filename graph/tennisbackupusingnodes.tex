@@ -1,0 +1,34 @@
+\documentclass{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage{tikz}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\begin{document}
+
+\begin{tikzpicture}[node distance={42mm}, thick, main/.style = {draw, circle, inner sep=0, minimum size=22mm, text width=20mm, text centered}]
+
+% NODES
+\node[main] (tennis) {tennis};
+
+\node[main] (mental) [below left of=tennis] {mental};
+\node[main] (physical) [below right of=tennis] {physical};
+
+\node[main] (anticipation) [below left of=mental] {anticipation};
+\node[main] (stroke) [below right of=mental] {stroke};
+
+\node[main] (court_awareness) [below of=anticipation] {court awareness};
+\node[main] (court_position) [left of=court_awareness] {court position};
+\node[main] (grip) [right of=court_awareness] {grip};
+\node[main] (swing) [right of=grip] {swing};
+\node[main] (split_step) [right of=swing] {split step};
+\node[main] (ready_position) [right of=split_step] {ready position};
+\node[main] (conditioning) [right of=ready_position] {conditioning};
+
+%MOVED FOOTWORK TO LOOK BETTER
+\node[main] (footwork) [above of=ready_position] {footwork};
+
+\
+
+\end{tikzpicture}
+\end{document}
