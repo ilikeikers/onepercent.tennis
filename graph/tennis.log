@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.18)  11 APR 2022 12:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.18)  3 JUN 2022 11:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -733,18 +733,18 @@ Package rerunfilecheck Info: File `tennis.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 20023 strings out of 480806
- 367932 string characters out of 5905151
- 684872 words of memory out of 6000000
- 37078 multiletter control sequences out of 15000+600000
+ 20044 strings out of 480806
+ 368507 string characters out of 5905151
+ 700131 words of memory out of 6000000
+ 37099 multiletter control sequences out of 15000+600000
  403430 words of font info for 27 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 100i,25n,104p,407b,2506s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 100i,25n,104p,407b,2512s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on tennis.pdf (1 page, 20206 bytes).
+Output written on tennis.pdf (1 page, 21840 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
- 39 compressed objects within 1 object stream
+ 76 PDF objects out of 1000 (max. 8388607)
+ 71 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
