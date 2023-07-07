@@ -1,5 +1,5 @@
 # tennis
-tennis resource repo
+fundamentals of tennis graph
 
 This is a simple graph I made while coaching highschool tennis. It is meant to be a basic breakdown of some of the fundamentals of tennis. 
 
