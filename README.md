@@ -1,7 +1,7 @@
 # onepercent.tennis
 fundamentals of tennis graph
 
-Can get a downloadable pdf on [onepercent.tennis] as well, if interested. 
+Can get a downloadable pdf on [onepercent.tennis](onepercent.tennis) as well, if interested. 
 
 This is a simple graph I made while coaching highschool tennis. It is meant to be a basic breakdown of some of the fundamentals of tennis. 
 
